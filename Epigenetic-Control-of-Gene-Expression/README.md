@@ -47,7 +47,7 @@ This course is directly relevant to my current master’s research focus in mole
 
 ## 🛡️ Legal Notice
 
-This repository contains my personal study notes and reflections based on the publicly available course structure of **Epigenetic Control of Gene Expression** from Coursera.  
+This folder contains my personal study notes and reflections based on the publicly available course structure of **Epigenetic Control of Gene Expression** from Coursera.  
 All original course materials, including videos, slides and assignments, belong to **The University of Melbourne** and **Coursera**.  
 This repository does not contain any proprietary or copyrighted content from the course.  
 It is intended solely for **personal educational use**.
@@ -58,6 +58,6 @@ It is intended solely for **personal educational use**.
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-This repository is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/legalcode) license.  
+This folder is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/legalcode) license.  
 To read the full license details, please visit the link above.
 
