@@ -34,7 +34,7 @@ Each course folder contains:
 ## 🗂️ Repository Structure
 
 ```
-Neurobiology-Courses/
+Molecular-Biology-Courses/
 │
 ├── README.md           # Main repository README with overview, course list and general info
 │
